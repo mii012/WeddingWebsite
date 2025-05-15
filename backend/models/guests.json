@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "date": "2024-01-01",
+    "firstName": "Koko",
+    "surname": "Oez",
+    "arrival": "ja",
+    "personCount": "1"
+  },
+  {
+    "id": 1,
+    "date": "2025-03-29T15:03:05.333Z",
+    "firstName": "Koko",
+    "surname": "Oez",
+    "arrival": "ja",
+    "personCount": ""
+  },
+  {
+    "id": 2,
+    "date": "2025-03-29T15:08:39.406Z",
+    "firstName": "Koko",
+    "surname": "Oez",
+    "arrival": "j",
+    "personCount": ""
+  }
+]
