@@ -9,6 +9,8 @@
 - Current version demonstrates the **visual concept and structure**
 - name and date are blurred for privacy reasons
   
-![scrollshot-2025-06-09T22-54-39-UTC+02-00 (1)](https://github.com/user-attachments/assets/f0dcf821-4690-4ae1-bf39-926a076b8fd5)
+  <img width="1896" height="3288" alt="scrollshot-2025-06-09T22-54-39-UTC+02-00 (1)" src="https://github.com/user-attachments/assets/357853dd-7f98-4066-a9b4-7eb1c265d077" />
+
+
 
 
